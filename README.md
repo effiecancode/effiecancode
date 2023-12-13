@@ -1,4 +1,4 @@
-# Hello World!
+# Hello 🌍
 
 Welcome to my programming domain, where logic meets creativity. 
 * 🧠 Python fuels my logical constructs,
