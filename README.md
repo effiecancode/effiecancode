@@ -11,5 +11,5 @@
 
 I clone cool python/django projects and implement amazing frontend to them, <br>because whats the web without Stunning human-tailored interfaces?
 
-(Remember: no matter how good the logic is, users only care about how beautiful & <br> accesible your app was, but most importalnty the interaction <br> experience they had with your app)
+(Remember: no matter how good the logic is, users only care about how cool & <br> accesible your app was, but most importalnty the interaction <br> experience they had with your app)
 </div>
