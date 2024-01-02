@@ -8,7 +8,7 @@
 
 
 <h3 align="center"> My Skill Set  <h3/>
-<table align="center"><tr><td valign="top" width="25%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
@@ -23,7 +23,7 @@
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /> -->
 </div>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="33%">
 
 
 
@@ -33,10 +33,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 
 </div>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="33%">
 
 
 
@@ -45,15 +46,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />    
-</div>
-
-</td><td valign="top" width="25%">
-
-
-
-### VersionControl  
-<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 </div>
 
