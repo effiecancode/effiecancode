@@ -38,7 +38,7 @@ My name is Effie Njoki and I'm a passionate Software Developer, I write high-qua
 
    <tr>
     <td width="50%">
-      📆 <a href="https://github.com/effiecancode/AirBnB_clone_v4"> AirBnB Clone </a><br>
+      🏠 <a href="https://github.com/effiecancode/AirBnB_clone_v4"> AirBnB Clone </a><br>
       This project is a collaboration on an AirBnB clone, as a part of my ALX Software Engineering course work.  
       <br>
       <kbd> Python </kbd>
@@ -54,7 +54,7 @@ My name is Effie Njoki and I'm a passionate Software Developer, I write high-qua
   
   <tr>
     <td width="50%">
-      🛒 <a href="https://github.com/effiecancode/CRM-backend"> CRM Backend</a><br>
+      <a href="https://github.com/effiecancode/CRM-backend"> CRM Backend</a><br>
       This project contains a structure of Models and Django REST framework API for a simple CRM web application.
       <br>
       <kbd> Python </kbd>
