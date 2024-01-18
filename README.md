@@ -1,5 +1,8 @@
 # Hello World 🌍
 
+![](https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif)
+
+
 ### Call me Effie 😊
 
 I'm an ambition-driven Software Developer. I write high-quality, modular and maintainable code, based on the industry's best practices. I thrive in designing and implementing solutions that allow humans to effectively interact with Technology.
