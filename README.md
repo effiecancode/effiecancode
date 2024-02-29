@@ -1,6 +1,6 @@
 # Hello World 🌍
 
-![](https://i.imgur.com/QH6oLO8.gif)
+
 
 
 ## Call me Effie 😊
