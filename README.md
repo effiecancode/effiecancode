@@ -5,7 +5,7 @@
 
 ## Call me Effie 😊
 
-I'm an ambition-driven Developer.
+I'm an results-driven Developer.
 <br>
 - 🌍 Based in Africa
 - 🌱 Currently: Learning Cloud Computing | Chasing mastery in DSA | APIs | Backend
