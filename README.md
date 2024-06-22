@@ -5,7 +5,7 @@
       <br>HTML
     </td> -->
     <td align="left" width="220" height="170">
-        <img src="https://imgur.com/4AlvAbl.png" width="200" height="200" alt="aws ccp Badge" />
+        <img src="https://imgur.com/4AlvAbl.png" alt="aws ccp Badge" />
       <br> 
       <p align="left"> ☑️ Cloud Computing <br> ☑️ Solutions Architecture </p>
     </td>
