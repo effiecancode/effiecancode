@@ -17,7 +17,7 @@
         <img src="https://i.imgur.com/Cqitv3e.png" alt="alx completion cert" />
       <br> 
       <p 
-              align="left" style="font-size: 16px;"> ☑️ C,Python,Bash,Javascript <br> ☑️ REST API, GRAPH QL, FAST API <br> ☑️ Unittests, Integration Testing <br> ☑️ DevOps <br> ☑️ Caching - REDIS, Caching Algorithms <br>  ☑️ Containerization, Orchestration, CI/CD pipelines <br>  ☑️ Version Control - Git <br> https://intranet.alxswe.com/certificates/rmzNsXH23P
+              align="left" style="font-size: 16px;"> ☑️ C,Python,Bash,Javascript <br> ☑️ REST API, GRAPH QL, FAST API <br> ☑️ Unittests, Integration Testing <br> ☑️ DevOps <br> ☑️ Caching - REDIS, Caching Algorithms <br>  ☑️ Containerization, Orchestration, CI/CD pipelines <br>  ☑️ Version Control - Git 
       </p>
     </td>
 </tr>
