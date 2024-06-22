@@ -14,3 +14,15 @@
       <br>HTML
     </td> -->
 </tr>
+
+<table align="center">
+<tr>
+    <td align="left" width="440" height="170">
+        <img src="https://i.imgur.com/Cqitv3e.png" alt="alx completion cert" />
+      <br> 
+      <p 
+              align="left" style="font-size: 16px;"> 🟢 C,Python,Bash,Javascript <br> 🟢 REST API, GRAPH QL, FAST API <br> 🟢 Unittes, Integration Testing <br> 🟢 DevOps <br> 🟢 Caching - REDIS, Caching Algorithms <br>  🟢 Containerization, Orchestrations
+      </p>
+    </td>
+      
+</tr>
