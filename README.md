@@ -7,7 +7,7 @@
     <td align="left" width="220" height="170">
         <img src="https://imgur.com/4AlvAbl.png" alt="aws ccp Badge" />
       <br> 
-      <p align="left"> ☑️ Cloud Computing <br> ☑️ Solutions Architecture </p>
+      <p align="left"> ☑️ Cloud Computing <br> ☑️ Solutions Architecture <br> https://www.credly.com/badges/ccb48b56-22d8-4abc-b9f4-5b157f3b82b4/linked_in?t=sc6q8i </p>
     </td>
 <!--  <td align="center" width="200" height="300">
         <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="45" height="45" alt="HTML" />
