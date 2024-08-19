@@ -21,7 +21,7 @@
  <td align="right" width="220" height="170">
         <img src="https://imgur.com/4AlvAbl.png" alt="aws ccp Badge" />
       <br> 
-      <p align="left"> ☑️ Cloud Computing <br> ☑️ AWS Core Services <br> ☑️ Cloud Architecture <br> ☑️ Billing and Pricing <br> ☑️ AWS Global Infrastructure <br> ☑️ IAM <br> ☑️ CLI & SDK
+      <p align="left"> ☑️ Cloud Computing <br> ☑️ AWS Core Services <br> ☑️ Cloud Architecture <br> ☑️ Billing and Pricing <br> ☑️ AWS Global Infrastructure <br> ☑️ IAM <br> ☑️ AWS Console, CLI & SDK
  </p>
     </td>
 
